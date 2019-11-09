@@ -1,0 +1,4 @@
+Questions and Answers OR Doubts/Clarifications
+
+DDD
+1. Can we have a simple POCO's within the Aggregate boundary in DDD? OR an aggregate must contain only Entities and value objects.
