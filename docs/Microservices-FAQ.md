@@ -11,8 +11,8 @@
   - No sharing of credentials with other services
 - How to monitor microservices?
   - Azure App Insights
-  - ![Monitoring Concerns](.\assets\monitoring-concerns.JPG)
-  - ![Monitoring Philosophy](.\assets\monitoring-philosophy.JPG)
+  - ![Monitoring Concerns](./assets/monitoring-concerns.JPG)
+  - ![Monitoring Philosophy](./assets/monitoring-philosophy.JPG)
   - 
 
 
